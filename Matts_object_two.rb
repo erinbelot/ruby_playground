@@ -45,7 +45,7 @@ student3 = {
 students = [student1, student3]
 students.push(student2)
 
-# 6. Starting with teachers, produce 'Lead', 'military jiujitsu' amd 'cooking'
+# 6. Starting with teachers, produce 'Lead', 'military jiujitsu' and 'cooking'
 harrison = {
     role: 'TA',
     hobbies: [
