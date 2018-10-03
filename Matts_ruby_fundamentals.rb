@@ -1,8 +1,23 @@
 Slack Ruby Fundamentals
-Hi all. These are some problems that might help people nail down the concepts that we have covered so far. They are a good place to start teasing out what you do and don’t understand from the course so far. They are not compulsory, but if you are finding the going tough so far then I'd suggest giving them a go. I will be using them as the basis of the review classes that I will be running some afternoons. 
-If you find them tough that's fine - they are starting point, and will help me to understand what it is that you do and don't understand and what we could teach better. Some of them are wordy. You will need to read the question carefully, which is part of becoming a good coder. I am very happy to review any code relating to any problem in this list. If you can comfortably do Question 20 then you have at least the basics down pretty well - but should definitely keep practicing!
+Hi all. These are some problems that might help people 
+nail down the concepts that we have covered so far. They 
+are a good place to start teasing out what you do and don’t 
+    understand from the course so far. They are not compulsory, 
+    but if you are finding the going tough so far then I'd 
+    suggest giving them a go. I will be using them as the basis
+     of the review classes that I will be running some afternoons. 
+If you find them tough that's fine - they are starting point, 
+and will help me to understand what it is that you do and 
+    don't understand and what we could teach better. Some 
+    of them are wordy. You will need to read the question 
+    carefully, which is part of becoming a good coder. I am 
+    very happy to review any code relating to any problem 
+    in this list. If you can comfortably do Question 20 
+        then you have at least the basics down pretty well -
+         but should definitely keep practicing!
  
-*Please note:* Problem 4 is tricky, and you are welcome to leave that until the end. And Problem 20 is a serious challenge. If you can do it, great. If you can't, that's ok too - it just gives you something to work toward. Problems 21-25 are just for fun and are there to stretch those who would like something a little extra.
+*Please note:* Problem 4 is tricky, and you 
+are welcome to leave that until the end. And Problem 20 is a serious challenge. If you can do it, great. If you can't, that's ok too - it just gives you something to work toward. Problems 21-25 are just for fun and are there to stretch those who would like something a little extra.
  
 *Problem 1*
 Define 4 methods. The first takes a string (as an argument), and then returns the string + “ will be”, the second takes a string, and returns the string + “ won’t be”, the third takes a string and returns the string + “ impeached.” and the fourth is called trump_predictor. trump_predictor takes a string, but then you must use the previous functions to get from this method call trump_predictor(“Trump”) to whatever outcome you think is more likely, but using only the previously defined functions. Store the output of trump_predictor in a well named variable. (For example, if you think he won’t be impeached, only call the methods that matter, so the output string will be “Trump won’t be impeached.”.)
